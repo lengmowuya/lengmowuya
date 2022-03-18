@@ -1,4 +1,5 @@
 ### 你好，我是冷漠乌鸦！
+[![wakatime](https://wakatime.com/badge/user/6ede7a2c-5896-44cd-9b52-4b52aeeda6d9.svg)](https://wakatime.com/@6ede7a2c-5896-44cd-9b52-4b52aeeda6d9)
 下面是我的一个小项目，请多多关照！
 
 
