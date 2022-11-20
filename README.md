@@ -1,9 +1,9 @@
 ### 你好，我是冷漠乌鸦！
-<img src="https://wakatime.com/badge/user/16fc8d1d-27ba-4e00-9b58-972e08b14487.svg" />
+https://wakatime.com/badge/user/6ede7a2c-5896-44cd-9b52-4b52aeeda6d9.svg
 
 - 😄 喜欢输入不喜欢输出的烂仔
 - 🤔 平常会读书，搭建空白项目
-- 
+
 <details>
   <summary>
     My code statistics.
