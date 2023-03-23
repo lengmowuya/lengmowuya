@@ -1,5 +1,5 @@
 ### 你好，我是冷漠乌鸦！
-https://wakatime.com/badge/user/6ede7a2c-5896-44cd-9b52-4b52aeeda6d9.svg
+[![wakatime](https://wakatime.com/badge/user/6ede7a2c-5896-44cd-9b52-4b52aeeda6d9.svg)](https://wakatime.com/@6ede7a2c-5896-44cd-9b52-4b52aeeda6d9)
 
 - 😄 喜欢输入不喜欢输出的烂仔
 - 🤔 平常会读书，搭建空白项目
